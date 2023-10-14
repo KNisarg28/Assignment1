@@ -1,0 +1,74 @@
+/* Nisarg Khyali 8910019*/
+
+body {
+    width: 100%;    
+    margin: 0 auto;  
+    font: 18px Arial, sans-serif; 
+    padding: 15px;  
+}
+
+ 
+header, footer {
+    border: 5px solid #fa0505;  
+    border-radius: 10px; 
+    padding: 10px;  
+    margin: 10px 0; 
+}
+
+h1, h2 {
+    color: #007ACC;  
+    font-variant: small-caps;  
+}
+
+footer p {
+    clear: both;
+    font-size: 16px;  
+    color: #9ee83c;  
+}
+
+ 
+main {
+    float: left;  
+    width: 50%;  
+    padding: 10px; 
+      
+}
+
+aside {
+    float: right;  
+    width: 30%; 
+    padding: 10px; 
+    margin: 15px 0;  
+}
+
+ 
+.mainimg {
+    border: 1px solid #161fa5; 
+}
+
+figcaption {
+    font-weight: bold;  
+    font-variant: small-caps;  
+}
+
+
+q {
+    font-family: TimesNewRoman;  
+    font-style: italic;  
+    font-size: 20px;  
+}
+
+ 
+ul li {
+    list-style: none;  
+    line-height: 2;  
+}
+
+ul > li > a {
+    text-decoration: none;  
+    color: #006600;  
+}
+
+aside a:hover {
+    color: #FF0000;  
+}
